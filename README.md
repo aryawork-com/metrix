@@ -1,6 +1,11 @@
-# Metrix 🩺📊
+<p align="center">
+  <img src="/icon.svg" alt="Metrix Logo" width="100" />
+</p>
 
-**Metrix** is a health tracker app designed to help you **log**, **visualize**, and **optimize** your personal health metrics — all while keeping your data **private and offline**.
+<h1 align="center"><strong>Metrix</strong></h1>
+
+
+**Metrix** by <a href="https://aryawork.com/" target="_blank"><strong>Aryawork</strong></a> is a health tracker app designed to help you **log**, **visualize**, and **optimize** your personal health metrics — all while keeping your data **private and offline**.
 
 Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart rate, Metrix makes it easy to record, analyze, and understand your health patterns through intuitive charts and summaries.
 
