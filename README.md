@@ -48,21 +48,20 @@ Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart r
 
 ## Screenshots
 
-## Screenshots
-
 ### Dark
-<img src="screen/Activities_Dark.png" height="200px" alt="Activities"/>
-<img src="screen/Metrics_Dark.png" height="200px" alt="Metrics"/>
-<img src="screen/Stats_Metric_Wise_Dark.png" height="200px" alt="Stats - Metric Wise"/>
-<img src="screen/Stats_Target_Graph_Dark.png" height="200px" alt="Stats - Target Graph"/>
-<img src="screen/Settings_Dark.png" height="200px" alt="Settings"/>
+<a href="screen/Activities_Dark.png"><img src="screen/Activities_Dark.png" height="300px" alt="Activities"/></a>
+<a href="screen/Metrics_Dark.png"><img src="screen/Metrics_Dark.png" height="300px" alt="Metrics"/></a>
+<a href="screen/Stats_Metric_Wise_Dark.png"><img src="screen/Stats_Metric_Wise_Dark.png" height="300px" alt="Stats - Metric Wise"/></a>
+<a href="screen/Stats_Target_Graph_Dark.png"><img src="screen/Stats_Target_Graph_Dark.png" height="300px" alt="Stats - Target Graph"/></a>
+<a href="screen/Settings_Dark.png"><img src="screen/Settings_Dark.png" height="300px" alt="Settings"/></a>
 
 ### Light
-<a href="screen/Activities_Light.png"><img src="screen/Activities_Light.png" height="200px" alt="Activities"/></a>
-<a href="screen/Metrics_Light.png"><img src="screen/Metrics_Light.png" height="200px" alt="Metrics"/></a>
-<a href="screen/Stats_Metric_Wise_Light.png"><img src="screen/Stats_Metric_Wise_Light.png" height="200px" alt="Stats - Metric Wise"/></a>
-<a href="screen/Stats_Target_Graph_Light.png"><img src="screen/Stats_Target_Graph_Light.png" height="200px" alt="Stats - Target Graph"/></a>
-<a href="screen/Settings_Light.png"><img src="screen/Settings_Light.png" height="200px" alt="Settings"/></a>
+<a href="screen/Activities_Light.png"><img src="screen/Activities_Light.png" height="300px" alt="Activities"/></a>
+<a href="screen/Metrics_Light.png"><img src="screen/Metrics_Light.png" height="300px" alt="Metrics"/></a>
+<a href="screen/Stats_Metric_Wise_Light.png"><img src="screen/Stats_Metric_Wise_Light.png" height="300px" alt="Stats - Metric Wise"/></a>
+<a href="screen/Stats_Target_Graph_Light.png"><img src="screen/Stats_Target_Graph_Light.png" height="300px" alt="Stats - Target Graph"/></a>
+<a href="screen/Settings_Light.png"><img src="screen/Settings_Light.png" height="300px" alt="Settings"/></a>
+
 
 
 ---
