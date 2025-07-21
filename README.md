@@ -8,7 +8,8 @@ Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart r
 
 ## ✨ Features
  
-- 🆓 **Completely Free**
+
+- 🆓 **Completely Free**  
   No ads, no subscriptions, no hidden costs — just a genuinely free health tracker.
 
 - 📈 **Log Essential Health Metrics**
