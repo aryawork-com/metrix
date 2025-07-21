@@ -48,19 +48,22 @@ Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart r
 
 ## Screenshots
 
+## Screenshots
+
 ### Dark
-![Activities](screen/Activities_Dark.png =x100)
-[![Metrics][screen2A]][screen2A]
-[![Stats - Metric Wise][screen4A]][screen4A]
-[![Stats - Target Graph][screen5A]][screen5A]
-[![Settings][screen3A]][screen3A]
+<img src="screen/Activities_Dark.png" height="200px" alt="Activities"/>
+<img src="screen/Metrics_Dark.png" height="200px" alt="Metrics"/>
+<img src="screen/Stats_Metric_Wise_Dark.png" height="200px" alt="Stats - Metric Wise"/>
+<img src="screen/Stats_Target_Graph_Dark.png" height="200px" alt="Stats - Target Graph"/>
+<img src="screen/Settings_Dark.png" height="200px" alt="Settings"/>
 
 ### Light
-[![Activities][screen1B]][screen1B]
-[![Metrics][screen2B]][screen2B]
-[![Stats - Metric Wise][screen4B]][screen4B]
-[![Stats - Target Graph][screen5B]][screen5B]
-[![Settings][screen3B]][screen3B]
+<a href="screen/Activities_Light.png"><img src="screen/Activities_Light.png" height="200px" alt="Activities"/></a>
+<a href="screen/Metrics_Light.png"><img src="screen/Metrics_Light.png" height="200px" alt="Metrics"/></a>
+<a href="screen/Stats_Metric_Wise_Light.png"><img src="screen/Stats_Metric_Wise_Light.png" height="200px" alt="Stats - Metric Wise"/></a>
+<a href="screen/Stats_Target_Graph_Light.png"><img src="screen/Stats_Target_Graph_Light.png" height="200px" alt="Stats - Target Graph"/></a>
+<a href="screen/Settings_Light.png"><img src="screen/Settings_Light.png" height="200px" alt="Settings"/></a>
+
 
 ---
 
@@ -97,15 +100,3 @@ Open an issue or start a conversation in [GitHub Discussions](https://github.com
 Visit [Privacy Policy Page](https://aryawork.com/metrix/privacy-policy)
 
 > 🛡️ Your health data is personal. **Metrix will always prioritize privacy, security, and transparency.**
-
-
-[screen1A]: screen/Activities_Dark.png 
-[screen1B]: screen/Activities_Light.png 
-[screen2A]: screen/Metrics_Dark.png 
-[screen2B]: screen/Metrics_Light.png 
-[screen4A]: screen/Stats_Metric_Wise_Dark.png 
-[screen4B]: screen/Stats_Metric_Wise_Light.png 
-[screen5A]: screen/Stats_Target_Graph_Dark.png 
-[screen5B]: screen/Stats_Target_Graph_Light.png
-[screen3A]: screen/Settings_Dark.png 
-[screen3B]: screen/Settings_Light.png 
