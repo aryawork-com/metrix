@@ -60,7 +60,7 @@ Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart r
 
 ## 📥 Install
 
-You can download the app via [Releases Page](https://github.com/aryawork-com/metrix/releases). The Google Playstore links are comming soon, the listing & apps is under review due to Google's new guidelines.
+You can download the app via [Releases Page](https://github.com/aryawork-com/metrix/releases). The Google Playstore link is comming soon, the listing & apps is under review due to Google's new guidelines.
 
 ## 🔮 Coming Soon
 
