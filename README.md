@@ -15,12 +15,12 @@ Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart r
 - 📈 **Log Essential Health Metrics**
   - Custom Metric or
   - Predefined
-   - Blood Pressure (systolic, diastolic, pulse)
-   - Blood Sugar (fasting, post-meal)
-   - Weight (lbs/kg)
-   - Sleep (duration, quality)
-   - Heart Rate (resting pulse)
-   - +11 more
+    - Blood Pressure (systolic, diastolic, pulse)
+    - Blood Sugar (fasting, post-meal)
+    - Weight (lbs/kg)
+    - Sleep (duration, quality)
+    - Heart Rate (resting pulse)
+    - +11 more
 
 - 🧾 **Timestamped Entries with Notes**  
   Add important context to every entry with custom notes and automatic timestamps.
