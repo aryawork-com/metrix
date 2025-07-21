@@ -9,8 +9,6 @@
 
 Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart rate, Metrix makes it easy to record, analyze, and understand your health patterns through intuitive charts and summaries.
 
----
-
 ## ✨ Features
 
 - 🆓 **Completely Free**  
@@ -44,8 +42,6 @@ Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart r
 - 📴 **Offline-First Experience**  
   Metrix works fully offline, whenever and wherever you need it.
 
----
-
 ## Screenshots
 
 ### Dark
@@ -62,9 +58,9 @@ Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart r
 <a href="screen/Stats_Target_Graph_Light.png"><img src="screen/Stats_Target_Graph_Light.png" height="300px" alt="Stats - Target Graph"/></a>
 <a href="screen/Settings_Light.png"><img src="screen/Settings_Light.png" height="300px" alt="Settings"/></a>
 
+## 📥 Install
 
-
----
+You can download the app via [Releases Page](https://github.com/aryawork-com/metrix/releases). The Google Playstore links are comming soon, the listing & apps is under review due to Google's new guidelines.
 
 ## 🔮 Coming Soon
 
@@ -72,8 +68,6 @@ Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart r
 - ☁️ Optional Cloud Sync (end-to-end encrypted)
 - ⏰ Reminders & Smart Notifications
 - 🧠 AI-powered Health Insights and Suggestions
-
----
 
 ## 🛣️ Roadmap
 
@@ -87,14 +81,11 @@ Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart r
 | Reminders and smart notifications     | 🔜 Coming |
 | AI-driven insights                    | 🔜 Coming |
 
----
-
 ## 🙋 Contact
 
 Have questions, feedback, or feature ideas?  
 Open an issue or start a conversation in [GitHub Discussions](https://github.com/aryawork-com/metrix/discussions).
 
----
 ## 🛡️ Privacy Policy
 Visit [Privacy Policy Page](https://aryawork.com/metrix/privacy-policy)
 
