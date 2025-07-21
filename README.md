@@ -13,11 +13,14 @@ Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart r
   No ads, no subscriptions, no hidden costs — just a genuinely free health tracker.
 
 - 📈 **Log Essential Health Metrics**
-  - Blood Pressure (systolic, diastolic, pulse)
-  - Blood Sugar (fasting, post-meal)
-  - Weight (lbs/kg)
-  - Sleep (duration, quality)
-  - Heart Rate (resting pulse)
+  - Custom Metric or
+  - Predefined
+   - Blood Pressure (systolic, diastolic, pulse)
+   - Blood Sugar (fasting, post-meal)
+   - Weight (lbs/kg)
+   - Sleep (duration, quality)
+   - Heart Rate (resting pulse)
+   - +11 more
 
 - 🧾 **Timestamped Entries with Notes**  
   Add important context to every entry with custom notes and automatic timestamps.
@@ -68,5 +71,8 @@ Have questions, feedback, or feature ideas?
 Open an issue or start a conversation in [GitHub Discussions](https://github.com/aryawork-com/metrix/discussions).
 
 ---
+## 🛡️ Privacy Policy
+Visit [Privacy Policy Page](https://aryawork.com/metrix/privacy-policy)
 
 > 🛡️ Your health data is personal. **Metrix will always prioritize privacy, security, and transparency.**
+
