@@ -47,16 +47,16 @@ Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart r
 ### Dark
 <a href="screen/Activities_Dark.png"><img src="screen/Activities_Dark.png" height="300px" alt="Activities"/></a>
 <a href="screen/Metrics_Dark.png"><img src="screen/Metrics_Dark.png" height="300px" alt="Metrics"/></a>
-<a href="screen/Stats_Metric_Wise_Dark.png"><img src="screen/Stats_Metric_Wise_Dark.png" height="300px" alt="Stats - Metric Wise"/></a>
-<a href="screen/Stats_Target_Graph_Dark.png"><img src="screen/Stats_Target_Graph_Dark.png" height="300px" alt="Stats - Target Graph"/></a>
-<a href="screen/Settings_Dark.png"><img src="screen/Settings_Dark.png" height="300px" alt="Settings"/></a>
+<a href="screen/Stats_Metric_Wise_Dark_new.png"><img src="screen/Stats_Metric_Wise_Dark_new.png" height="300px" alt="Stats - Metric Wise"/></a>
+<a href="screen/Stats_Target_Graph_Dark_new.png"><img src="screen/Stats_Target_Graph_Dark_new.png" height="300px" alt="Stats - Target Graph"/></a>
+<a href="screen/Settings_Dark_new.png"><img src="screen/Settings_Dark_new.png" height="300px" alt="Settings"/></a>
 
 ### Light
 <a href="screen/Activities_Light.png"><img src="screen/Activities_Light.png" height="300px" alt="Activities"/></a>
 <a href="screen/Metrics_Light.png"><img src="screen/Metrics_Light.png" height="300px" alt="Metrics"/></a>
-<a href="screen/Stats_Metric_Wise_Light.png"><img src="screen/Stats_Metric_Wise_Light.png" height="300px" alt="Stats - Metric Wise"/></a>
-<a href="screen/Stats_Target_Graph_Light.png"><img src="screen/Stats_Target_Graph_Light.png" height="300px" alt="Stats - Target Graph"/></a>
-<a href="screen/Settings_Light.png"><img src="screen/Settings_Light.png" height="300px" alt="Settings"/></a>
+<a href="screen/Stats_Metric_Wise_Light_new.png"><img src="screen/Stats_Metric_Wise_Light_new.png" height="300px" alt="Stats - Metric Wise"/></a>
+<a href="screen/Stats_Target_Graph_Light_new.png"><img src="screen/Stats_Target_Graph_Light_new.png" height="300px" alt="Stats - Target Graph"/></a>
+<a href="screen/Settings_Light_new.png"><img src="screen/Settings_Light_new.png" height="300px" alt="Settings"/></a>
 
 ## 📥 Install
 
