@@ -11,18 +11,18 @@ Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart r
 
 ## 🤝 Commitment
 
-- 🆓 **Always Be Free**
+- 🆓 **Always Be Free**  
    Metrix will NEVER include any ads, hide current features behind paywall, no hidden cost will be imposed on the app users.
 
-- 🛡️ **No Data Theft**
+- 🛡️ **No Data Theft**  
    Metrix will NEVER collect any data or telemetry from the users.
 
 ## ✨ Features
 
-- 🆓 **Completely Free**
+- 🆓 **Completely Free**  
   No ads, no subscriptions, no hidden costs — just a genuinely free health tracker.
 
-- 📈 **Log Essential Health Metrics**
+- 📈 **Log Essential Health Metrics**  
   - Custom Metric or
   - Predefined
     - Blood Pressure (systolic, diastolic, pulse)
@@ -32,22 +32,22 @@ Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart r
     - Heart Rate (resting pulse)
     - +11 more
 
-- 🧾 **Timestamped Entries with Notes**
+- 🧾 **Timestamped Entries with Notes**  
   Add important context to every entry with custom notes and automatic timestamps.
 
-- 📊 **Clean, Responsive Charts**
+- 📊 **Clean, Responsive Charts**  
   Visualize trends and spot outliers with clear, responsive graphs.
 
-- 📆 **Weekly Summaries**
+- 📆 **Weekly Summaries**  
   View average, high, and low values for your metrics over time to better understand your progress.
 
-- 🔒 **100% Private & Local Storage**
+- 🔒 **100% Private & Local Storage**  
   Your data never leaves your device. No accounts, no cloud, no tracking.
 
-- 📱 **Simple & Intuitive Interface**
+- 📱 **Simple & Intuitive Interface**  
   Built for ease of use — no ads, no clutter, just your health data in focus.
 
-- 📴 **Offline-First Experience**
+- 📴 **Offline-First Experience**  
   Metrix works fully offline, whenever and wherever you need it.
 
 ## Screenshots
@@ -91,7 +91,7 @@ You can download the app via [Releases Page](https://github.com/aryawork-com/met
 
 ## 🙋 Contact
 
-Have questions, feedback, or feature ideas?
+Have questions, feedback, or feature ideas?  
 Open an issue or start a conversation in [GitHub Discussions](https://github.com/aryawork-com/metrix/discussions).
 
 ## 🛡️ Privacy Policy
