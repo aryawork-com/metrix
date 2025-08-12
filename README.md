@@ -12,10 +12,10 @@ Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart r
 ## 🤝 Commitment
 
 - 🆓 **Always Be Free**  
-   Metrix will NEVER include any ads, hide current features behind paywall, no hidden cost will be imposed on the app users.
+   Metrix will **NEVER** include any ads, hide current features behind paywall, no hidden cost will be imposed on the app users.
 
 - 🛡️ **No Data Theft**  
-   Metrix will NEVER collect any data or telemetry from the users.
+   Metrix will **NEVER** collect any data or telemetry from the users.
 
 ## ✨ Features
 
