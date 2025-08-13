@@ -35,7 +35,7 @@ Whether you're monitoring blood pressure, blood sugar, weight, sleep, or heart r
 - 🧾 **Timestamped Entries with Notes**  
   Add important context to every entry with custom notes and automatic timestamps.
 
-- 🧾 **Multi-Lingual**  
+- 🌍 **Multi-Lingual**  
   Support English, and Hindi for now, more languages will be added soon. Contribution in language will be appreciated.
 
 - 📊 **Clean, Responsive Charts**  
