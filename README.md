@@ -75,7 +75,9 @@ You can download the app via [Releases Page](https://github.com/aryawork-com/met
 
 OR 
 
-[![Google play store](https://habo.space/img/resources/en_get.svg)](https://play.google.com/store/apps/details?id=com.aryawork.metrix)
+<a href="https://play.google.com/store/apps/details?id=com.aryawork.metrix">
+  <img src="GetItOnGooglePlay_Badge_Web_color_English.svg" width="200"/>
+</a>
 
 ## 🔮 Coming Soon
 
